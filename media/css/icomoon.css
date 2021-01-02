@@ -26,152 +26,152 @@
 }
 
 .icon-bar:before {
-  content: "\f0c9";
+  content: "\f0c9";/*菜单栏*/
 }
 .icon-up:before {
-  content: "\f106";
+  content: "\f106";/*上箭头*/
 }
 .icon-music:before {
-  content: "\e800";
+  content: "\e800";/*音乐*/
 }
 .icon-search:before {
-  content: "\e801";
+  content: "\e801";/*搜索*/
 }
 .icon-mail:before {
-  content: "\e802";
+  content: "\e802";/*邮件*/
 }
 .icon-heart:before {
-  content: "\e803";
+  content: "\e803";/*爱心*/
 }
 .icon-star:before {
-  content: "\e804";
+  content: "\e804";/*星星*/
 }
 .icon-user:before {
-  content: "\e805";
+  content: "\e805";/*用户*/
 }
 .icon-videocam:before {
-  content: "\e806";
+  content: "\e806";/*摄像机*/
 }
 .icon-camera:before {
-  content: "\e807";
+  content: "\e807";/*照相机*/
 }
 .icon-photo:before {
-  content: "\e808";
+  content: "\e808";/*图片*/
 }
 .icon-attach:before {
-  content: "\e809";
+  content: "\e809";/*附件\链接*/
 }
 .icon-lock:before {
-  content: "\e80a";
+  content: "\e80a";/*锁*/
 }
 .icon-eye:before {
-  content: "\e80b";
+  content: "\e80b";/*眼睛*/
 }
 .icon-tag:before {
-  content: "\e80c";
+  content: "\e80c";/*标记*/
 }
 .icon-thumbs-up:before {
-  content: "\e80d";
+  content: "\e80d";/*大拇指*/
 }
 .icon-pencil:before {
-  content: "\e80e";
+  content: "\e80e";/*铅笔*/
 }
 .icon-comment:before {
-  content: "\e80f";
+  content: "\e80f";/*评论*/
 }
 .icon-location:before {
-  content: "\e810";
+  content: "\e810";/*定位*/
 }
 .icon-cup:before {
-  content: "\e811";
+  content: "\e811";/*杯子*/
 }
 .icon-trash:before {
-  content: "\e812";
+  content: "\e812";/*垃圾桶*/
 }
 .icon-doc:before {
-  content: "\e813";
+  content: "\e813";/*文档*/
 }
 .icon-note:before {
-  content: "\e814";
+  content: "\e814";/*笔记*/
 }
 .icon-cog:before {
-  content: "\e815";
+  content: "\e815";/*齿轮*/
 }
 .icon-params:before {
-  content: "\e816";
+  content: "\e816";/*参数*/
 }
 .icon-calendar:before {
-  content: "\e817";
+  content: "\e817";/*日历*/
 }
 .icon-sound:before {
-  content: "\e818";
+  content: "\e818";/*喇叭*/
 }
 .icon-clock:before {
-  content: "\e819";
+  content: "\e819";/*手表*/
 }
 .icon-lightbulb:before {
-  content: "\e81a";
+  content: "\e81a";/*灯泡*/
 }
 .icon-tv:before {
-  content: "\e81b";
+  content: "\e81b";/*电视*/
 }
 .icon-desktop:before {
-  content: "\e81c";
+  content: "\e81c";/*桌面*/
 }
 .icon-mobile:before {
-  content: "\e81d";
+  content: "\e81d";/*手机*/
 }
 .icon-cd:before {
-  content: "\e81e";
+  content: "\e81e";/*CD唱片*/
 }
 .icon-inbox:before {
-  content: "\e81f";
+  content: "\e81f";/*收件箱*/
 }
 .icon-globe:before {
-  content: "\e820";
+  content: "\e820";/*地球*/
 }
 .icon-cloud:before {
-  content: "\e821";
+  content: "\e821";/*云*/
 }
 .icon-paper-plane:before {
-  content: "\e822";
+  content: "\e822";/*纸飞机*/
 }
 .icon-fire:before {
-  content: "\e823";
+  content: "\e823";/*火*/
 }
 .icon-graduation-cap:before {
-  content: "\e824";
+  content: "\e824";/*毕业帽*/
 }
 .icon-megaphone:before {
-  content: "\e825";
+  content: "\e825";/*扩音器*/
 }
 .icon-database:before {
-  content: "\e826";
+  content: "\e826";/*数据库*/
 }
 .icon-key:before {
-  content: "\e827";
+  content: "\e827";/*钥匙*/
 }
 .icon-beaker:before {
-  content: "\e828";
+  content: "\e828";/*烧杯*/
 }
 .icon-truck:before {
-  content: "\e829";
+  content: "\e829";/*卡车*/
 }
 .icon-money:before {
-  content: "\e82a";
+  content: "\e82a";/*钞票*/
 }
 .icon-food:before {
-  content: "\e82b";
+  content: "\e82b";/*食物*/
 }
 .icon-shop:before {
-  content: "\e82c";
+  content: "\e82c";/*商店*/
 }
 .icon-diamond:before {
-  content: "\e82d";
+  content: "\e82d";/*钻石*/
 }
 .icon-t-shirt:before {
-  content: "\e82e";
+  content: "\e82e";/*T恤*/
 }
 .icon-wallet:before {
-  content: "\e82f";
+  content: "\e82f";/*钱包*/
 }
