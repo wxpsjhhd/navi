@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wxpsjhhd.github.io</id>
-    <title>大唐   资源聚合全方位搜索网站</title>
+    <title>IdeFun   资源聚合全方位搜索网站</title>
     <updated>2020-12-25T06:28:39.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wxpsjhhd.github.io"/>
@@ -9,5 +9,5 @@
     <subtitle>聚合全网资源,覆盖主流搜索引擎,便利你的生活.</subtitle>
     <logo>https://wxpsjhhd.github.io/images/avatar.png</logo>
     <icon>https://wxpsjhhd.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 大唐   资源聚合全方位搜索网站</rights>
+    <rights>All rights reserved 2020, IdeFun   资源聚合全方位搜索网站</rights>
 </feed>
